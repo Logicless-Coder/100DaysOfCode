@@ -20,3 +20,5 @@ You can keep track of my work this way. All necessary links can be found in ther
 **4th Jan -**<br>
   2 of 5 Responsive Web Design Projects completed on freeCodeCamp.org<br>
   3rd under construction ;)
+**5th Jan -**<br>
+  Completed the 3rd project
